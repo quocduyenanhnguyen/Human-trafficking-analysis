@@ -238,7 +238,7 @@ order by victim_count desc
 #### Output
 ![Screen Shot 2024-06-30 at 10 50 35 PM](https://github.com/quocduyenanhnguyen/Human-trafficking-analysis/assets/92205707/0b1a00af-3bd1-4dca-8fd5-5eaa2ce6e378)
 
--> Most victims were white females or gender and race not specified. 
+-> Most victims were white females, or race not specified and gender is third gender.
 
 ### 17. races and genders of trafficking offenders in California (year is 2022)? 
 ```
