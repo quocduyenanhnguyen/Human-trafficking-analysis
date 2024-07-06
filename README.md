@@ -9,4 +9,4 @@
 
 - I analyzed global human trafficking data and some 2022 California data as well, to generate insights and draw conclusions. Data dictionary and codebook can be found on CTDC website. 
 - Attached to this repos is my SQL queries and explanation of output.
-- Link to Tableau viz: 
+- Link to Tableau viz: https://public.tableau.com/app/profile/anna.quoc.nguyen/viz/Humantraffickingstatistics/Story1#1
